@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SumeetYp
 - 👀 I’m interested in learing new things about tech and GitHub
-- 🌱 I’m currently learning IT in IOIT pune
+- 🌱 I’m currently studying IT in IOIT pune
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : INSTAGRAM:https://www.instagram.com/sp_sumeet_/
 
