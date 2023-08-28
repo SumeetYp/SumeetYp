@@ -2,10 +2,12 @@
 <div>
 	
 - 👋 Hi, I’m Sumeet Pandhare
-- 👀 I’m interested in ... Data Analystics, Cloud Computing, Coding, Web Development, Machine Learning & AI .
+- 👀 I’m interested in ... Data Analytics, Cloud , Coding, Web Development, Machine Learning & AI .
 - 🌱 I’m currently purseing ... Bachelors of Engineering in Information technology.
-- 💞️ I’m looking to collaborate on ... Web Development & Blockchain.
-- 📫 How to reach me ...  www.linkedin.com/in/ramchandrawarang
+- 💞️ I’m looking to collaborate on ... Dat, Web Development & Blockchain.
+- 📫 How to reach me ...  www.linkedin.com/in/sumeet-pandhare
+
+
 </div>
 
 <br>
